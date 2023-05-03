@@ -1,6 +1,6 @@
 from telebot import TeleBot, types
 
-bot = TeleBot(token='6269415190:AAGUYKqHYXOCk4viu8aTOehKIxdKpdzM-gg', parse_mode='html')
+bot = TeleBot(token='my_token', parse_mode='html')
 
 DEFINITOINS = {
 'bear with a sore head': 'Irritated, bad mood',
